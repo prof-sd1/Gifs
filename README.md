@@ -1,4 +1,4 @@
-# Collection of coding Gifs
+# Collection of coding gif
 
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
